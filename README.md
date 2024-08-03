@@ -21,6 +21,7 @@
 <p>Besides coding 💻:</p>
 <p> - Besides coding, I am an expert in android rooting, like flashing TWRP and that kind of stuff ... 📱</p>
 <p> - Besides coding, I also workout in the gym. 💪</p>
+<p> - And finally, besides coding I play games like CoD and WoT. 🎮</p>
 
 <h3 align="left">Languages and Tools🛠️:</h3>
 

@@ -3,7 +3,7 @@
 
 ![bade](https://camo.githubusercontent.com/ae7518e031142acb0c759babc7cfb50e6446623c73871353acfa3f24e99c7552/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5472794861636b4d652d2532333231324334323f7374796c653d666f722d7468652d6261646765266c6f676f3d7472796861636b6d65266c6f676f436f6c6f723d7768697465)
 
-<img width="40" height="40" src="https://tryhackme.com/img/badges/hashcracker.svg" />
+<img src="https://tryhackme.com/img/badges/hashcracker.svg" />
 
 <img class="image-align-left" src="https://camo.githubusercontent.com/8b81dd5f97d9926d9d98923c2e16220ca9d32f0afd66e4c91739a1da5fc43e49/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6c657467616d6572266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="SpectrTech" /> <img class="image-align-left" src="https://img.shields.io/badge/I%20use-Arch%20btw-orange" alt="SpectrTech" /> 
 

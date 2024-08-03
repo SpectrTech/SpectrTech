@@ -1,0 +1,1 @@
+This file is required to have the assets/ folder existing. Just ignore this file.

@@ -6,19 +6,13 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Spectr4.png" alt="TryHackMe">
 
-
-
-
-
-
-
-
 <h3 align="left">About me🚀</h3>
 
 <p>I'm a 13yo ethical hacker and programmer and interested in all kinds of cyber security like networking and I'm into cyber security since age 7. When I grow up I'm thinking to work at a cyber security company.</p>
 <p>Currently, I'm going to school in Germany and I'm the 8th grade. </p>
 
 <hr>
+<h3 align="left">My tryhackme badges:</h3>
 <div>
 <img class="image-align-left width="60" height="60" src="https://tryhackme.com/img/badges/linux.svg" /><img class="image-align-left width="60" height="60" src="https://tryhackme.com/img/badges/hashcracker.svg" /><img class="image-align-left width="60" height="60" src="https://tryhackme.com/img/badges/ohsint.svg" /><img class="image-align-left width="60" height="60" src="https://tryhackme.com/img/badges/mrrobot.svg" /><img class="image-align-left width="60" height="60" src="https://tryhackme.com/img/badges/blue.svg" /><img class="image-align-left width="60" height="60" src="https://tryhackme.com/img/badges/adventofcyber4.svg" /><img class="image-align-left width="60" height="60" src="https://tryhackme.com/img/badges/streak7.svg" /><img class="image-align-left width="60" height="60" src="https://tryhackme.com/img/badges/ice.svg" />
 </div>

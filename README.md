@@ -7,6 +7,9 @@
 
 <h3 align="left">About me🚀</h3>
 
+<p>Operating systems: Windows 11, Archlinux</p>
+<p>Languages: Python, C</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 

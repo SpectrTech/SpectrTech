@@ -15,7 +15,7 @@
 
 <h3 align="left">About me🚀</h3>
 
-<p>I'm a 13yo ethical hacker and programmer and interested in all kinds of cyber security like networking.</p>
+<p>I'm a 13yo ethical hacker and programmer and interested in all kinds of cyber security like networking and I'm into cyber security since age 7. When I grow up I'm thinking to work at a cyber security company.</p>
 <p>Currently, I'm going to school in Germany and I'm the 8th grade. </p>
 
 <p>Operating systems: Windows 11, Archlinux</p>

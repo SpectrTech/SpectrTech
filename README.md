@@ -1,4 +1,4 @@
-[![trophy](https://tryhackme-badges.s3.amazonaws.com/Spectr4.png)]
+![trophy](https://tryhackme-badges.s3.amazonaws.com/Spectr4.png)
 
 <!--
 **SpectrTech/SpectrTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

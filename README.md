@@ -19,7 +19,7 @@
 <p>Currently, I'm going to school in Germany and I'm the 8th grade. </p>
 
 <hr>
-<img width="60" height="60" src="https://tryhackme.com/img/badges/linux.svg" /><img width="60" height="60" src="https://tryhackme.com/img/badges/hashcracker.svg" /><img width="60" height="60" src="https://tryhackme.com/img/badges/ohsint.svg" /><img width="60" height="60" src="https://tryhackme.com/img/badges/mrrobot.svg" /><img width="60" height="60" src="https://tryhackme.com/img/badges/blue.svg" /><img width="60" height="60" src="https://tryhackme.com/img/badges/adventofcyber4.svg" /><img width="60" height="60" src="https://tryhackme.com/img/badges/streak7.svg" /><img width="60" height="60" src="https://tryhackme.com/img/badges/ice.svg" />
+<img class="image-align-left width="60" height="60" src="https://tryhackme.com/img/badges/linux.svg" /><img class="image-align-left width="60" height="60" src="https://tryhackme.com/img/badges/hashcracker.svg" /><img class="image-align-left width="60" height="60" src="https://tryhackme.com/img/badges/ohsint.svg" /><img class="image-align-left width="60" height="60" src="https://tryhackme.com/img/badges/mrrobot.svg" /><img class="image-align-left width="60" height="60" src="https://tryhackme.com/img/badges/blue.svg" /><img class="image-align-left width="60" height="60" src="https://tryhackme.com/img/badges/adventofcyber4.svg" /><img class="image-align-left width="60" height="60" src="https://tryhackme.com/img/badges/streak7.svg" /><img class="image-align-left width="60" height="60" src="https://tryhackme.com/img/badges/ice.svg" />
 
 <hr>
 <p>Operating systems: Windows 11, Archlinux</p>

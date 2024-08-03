@@ -5,8 +5,7 @@
 
 <img class="image-align-left" src="https://img.shields.io/badge/I%20use-Arch%20btw-orange" alt="SpectrTech" /> 
 
-
-
+<h3 align="left">About me🚀</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
